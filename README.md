@@ -1,2 +1,2 @@
 # cprg216-labs
- Learning object oriented programming using Python.
+ Learning object oriented programming with Python.
